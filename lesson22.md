@@ -7,6 +7,3 @@
 <<<<<<< HEAD
 | git status    |查看工作目錄的狀態 |
 test1
-=======
-| git status    | |
->>>>>>> bff0312a4e77d0808b27422f53a4f52123b58215
