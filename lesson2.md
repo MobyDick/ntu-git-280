@@ -4,7 +4,7 @@
 
 | git 指令       | 功能              |
 | ------------- |:----------------:|
-| git add       | 把檔案放置 staging |
-| git commit    | 把 staged 檔案放置 |
-| git init      | 開始一個git的專案   |
-| git status    | 查看目前工做目錄的狀態 |
+| git add       | put file to staging |
+| git commit    | commit a staged file |
+| git init      | initialize a git directory|
+| git status    | displays paths that have differences between the index file and the current HEAD commit |
